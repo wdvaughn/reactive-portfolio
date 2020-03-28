@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/reactive-portfolio/static/css/main.f95cb452.chunk.css",
-    "main.js": "/reactive-portfolio/static/js/main.2b6f7267.chunk.js",
-    "main.js.map": "/reactive-portfolio/static/js/main.2b6f7267.chunk.js.map",
+    "main.js": "/reactive-portfolio/static/js/main.eaa7d606.chunk.js",
+    "main.js.map": "/reactive-portfolio/static/js/main.eaa7d606.chunk.js.map",
     "runtime-main.js": "/reactive-portfolio/static/js/runtime-main.0f1162cd.js",
     "runtime-main.js.map": "/reactive-portfolio/static/js/runtime-main.0f1162cd.js.map",
-    "static/js/2.e3cf6e66.chunk.js": "/reactive-portfolio/static/js/2.e3cf6e66.chunk.js",
-    "static/js/2.e3cf6e66.chunk.js.map": "/reactive-portfolio/static/js/2.e3cf6e66.chunk.js.map",
+    "static/js/2.ff918944.chunk.js": "/reactive-portfolio/static/js/2.ff918944.chunk.js",
+    "static/js/2.ff918944.chunk.js.map": "/reactive-portfolio/static/js/2.ff918944.chunk.js.map",
     "index.html": "/reactive-portfolio/index.html",
-    "precache-manifest.0cf519d12f6eb22401435359c0aef873.js": "/reactive-portfolio/precache-manifest.0cf519d12f6eb22401435359c0aef873.js",
+    "precache-manifest.3db76bd643ae7f1777f761000d9821cf.js": "/reactive-portfolio/precache-manifest.3db76bd643ae7f1777f761000d9821cf.js",
     "service-worker.js": "/reactive-portfolio/service-worker.js",
     "static/css/main.f95cb452.chunk.css.map": "/reactive-portfolio/static/css/main.f95cb452.chunk.css.map",
-    "static/js/2.e3cf6e66.chunk.js.LICENSE.txt": "/reactive-portfolio/static/js/2.e3cf6e66.chunk.js.LICENSE.txt"
+    "static/js/2.ff918944.chunk.js.LICENSE.txt": "/reactive-portfolio/static/js/2.ff918944.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0f1162cd.js",
-    "static/js/2.e3cf6e66.chunk.js",
+    "static/js/2.ff918944.chunk.js",
     "static/css/main.f95cb452.chunk.css",
-    "static/js/main.2b6f7267.chunk.js"
+    "static/js/main.eaa7d606.chunk.js"
   ]
 }
