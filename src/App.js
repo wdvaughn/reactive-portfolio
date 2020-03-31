@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
+import { BrowserRouter as Router, Route } from "react-router-dom"
 import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -9,14 +9,12 @@ import Portfolio from './pages/Portfolio';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/reactive-portfolio/">
       <div >
         <Header />
-        <Switch>
-          <Route exact path="/" component={About} />
-          <Route exact path="/contact" component={Contact} />
-          <Route exact path="/portfolio" component={Portfolio} />
-        </Switch>
+        <Route exact path='/' component={About} />
+        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/portfolio" component={Portfolio} />
         <Footer />
       </div>
     </Router>
